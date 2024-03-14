@@ -1,0 +1,27 @@
+.main{
+    background-color:#C4C4C4;
+    li{
+        color: white;
+    }
+}
+.middle{
+    height: 500px;
+    background-color: #C4C4C4;
+}
+.second{
+    margin-top: 50px;
+    p{
+        color: #515151;
+
+    }
+    .inc{
+        margin-top: 20px;
+    }
+    .input input{
+        width: 490px;
+        height: 60px;
+        border-radius: 5px;
+        border: 1px;
+        
+    }
+}
